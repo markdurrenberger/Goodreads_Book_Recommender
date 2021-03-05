@@ -10,6 +10,15 @@ In this project I utilized the following Python libraries:
 * Sklearn
 * nltk (for NLP & vader sentiment analysis)
 
+**Machine Learning Techniques Utilized:**
+* Natural Language Processing
+* Sentiment Analysis
+* K-Means Clustering (as part of Feature Engineering)
+* Random Forest classification
+* K-Nearest Neighbors Classification
+* Hyperparameter Tuning
+* Feature Importance Analysis
+
 ## Raw Data
 
 Data for this project was provided through the work of Mengting Wan and colleagues. See citations below to their papers and link to their website where the raw data can be found.
